@@ -1,0 +1,13 @@
+io/swagger/api/factories/WarningApiServiceFactory.class
+io/swagger/api/impl/WarningApiServiceImpl.class
+io/swagger/api/WarningApi.class
+io/swagger/api/RFC3339DateFormat.class
+io/swagger/api/StringUtil.class
+io/swagger/api/ApiOriginFilter.class
+io/swagger/model/WarningItem.class
+io/swagger/api/ApiResponseMessage.class
+io/swagger/api/NotFoundException.class
+io/swagger/api/Bootstrap.class
+io/swagger/api/WarningApiService.class
+io/swagger/api/JacksonJsonProvider.class
+io/swagger/api/ApiException.class

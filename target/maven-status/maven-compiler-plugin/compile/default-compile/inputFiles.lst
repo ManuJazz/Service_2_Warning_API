@@ -1,0 +1,13 @@
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/RFC3339DateFormat.java
+/projects/Service_2_Warning_API/src/main/java/io/swagger/api/impl/WarningApiServiceImpl.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/WarningApi.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/ApiOriginFilter.java
+/projects/Service_2_Warning_API/src/main/java/io/swagger/api/Bootstrap.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/WarningApiService.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/ApiResponseMessage.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/ApiException.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/NotFoundException.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/StringUtil.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/api/JacksonJsonProvider.java
+/projects/Service_2_Warning_API/src/gen/java/io/swagger/model/WarningItem.java
+/projects/Service_2_Warning_API/src/main/java/io/swagger/api/factories/WarningApiServiceFactory.java
